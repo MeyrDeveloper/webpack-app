@@ -1,0 +1,12 @@
+@import '~normalize.css';
+@import 'fonts.css';
+@import 'clear.scss';
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: red;
+}
